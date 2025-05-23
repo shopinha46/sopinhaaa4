@@ -14,7 +14,6 @@
     <header class="container text-center">
         <img src="img/avatar-perfil.png" alt="avatar da Sophia" class="rounded-circle" width="150" height="150" srcset="">
         <p class="lead">Eu sou Sophia_</p>
-        <h1>Gosto de Programação</h1>
         <p>Sou uma estudante comum do ensino médio. desde o ano passado, vim aprendendo a utilizar editores de programação como CSS, VScode, JavaScript, HTML e GitHub, já fizemos exbolços de sites antes e agora produzindo um portifólio. </p>
         <p>Meus conhecimentos atuais</p>
         <div>
